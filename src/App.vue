@@ -1,7 +1,9 @@
 <template>
   <div id="app">
     <app-header/>
-    <app-grid/>
+    <main>
+      <app-grid/>
+    </main>
   </div>
 </template>
 
