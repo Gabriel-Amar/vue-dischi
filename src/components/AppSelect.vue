@@ -39,6 +39,8 @@ select{
     font-size: 20px;
     border-radius: 20px;
     padding: 7px;
+    background-color: $hd-color;
+    color: white;
 }
 
 
